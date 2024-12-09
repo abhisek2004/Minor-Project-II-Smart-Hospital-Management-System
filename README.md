@@ -173,7 +173,7 @@ This project serves as a platform for sentiment analysis on Twitter conversation
         <td>Member</td>
         <td><a href="https://www.linkedin.com/in/debabrata-mishra/" target="_blank">LinkedIn</a></td>
         <td><a href="https://github.com/debabrata-mishra" target="_blank">GitHub</a></td>
-        <td>debabrata.mishra@example.com</td>
+        <td>debabrata.mishra@gmail.com</td>
     </tr>
 </table>
 
