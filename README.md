@@ -300,32 +300,22 @@ A robust technological solution that addresses queuing models, bed availability,
 
 ### 📸 Website Preview
 
-<img src="./img/1.png" />
-<img src="./img/2.png" />
-<img src="./img/3.png" />
-<img src="./img/4.png" />
-<img src="./img/5.png" />
-<img src="./img/6.png" />
-<img src="./img/7.png" />
-<img src="./img/8.png" />
-<img src="./img/9.png" />
-<img src="./img/10.png" />
-<img src="./img/11.png" />
-<img src="./img/12.png" />
 
-🌐 **Visit our website:** [sih-hospital_](#)
+
+
+🌐 **Visit our website:** 
 
 
 ##  <h2 align = "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35">Our Contributors</h2>
  <h3>Thank you for contributing to our repository</h3>
 
-![Contributors](https://contrib.rocks/image?repo=ManaS066/sih-hospital_)
+![Contributors](https://contrib.rocks/image?repo=abhisek2004/Minor-Project-II-Smart-Hospital-Management-System)
 
 ## Stargazers
 
 <div align='center'>
 
-[![Stargazers repo roster for @ManaS066/sih-hospital_](https://reporoster.com/stars/ManaS066/sih-hospital_)](https://github.com/ManaS066/sih-hospital_/stargazers)
+[![Stargazers repo roster for @abhisek2004/Minor-Project-II-Smart-Hospital-Management-System](https://reporoster.com/stars/abhisek2004/Minor-Project-II-Smart-Hospital-Management-System)](https://github.com/abhisek2004/Minor-Project-II-Smart-Hospital-Management-System/stargazers)
 
 </div>
 
