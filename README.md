@@ -272,15 +272,15 @@ A robust technological solution that addresses queuing models, bed availability,
     </tr>
     <tr>
         <td>Mentor</td>
-        <td><a href="https://www.linkedin.com/in/manas-ranjan-pradhan/" target="_blank">LinkedIn</a></td>
-        <td><a href="https://github.com/ManaS066" target="_blank">GitHub</a></td>
-        <td>manasranjanpradhan2004@gmail.com</td>
-    </tr>
-    <tr>
-        <td>Mentor</td>
         <td><a href="https://www.linkedin.com/in/debabrata-mishra-148121289/" target="_blank">LinkedIn</a></td>
         <td><a href="https://github.com/debaraja-394" target="_blank">GitHub</a></td>
         <td>debabrat827@gmail.com</td>
+    </tr>
+   <tr>
+        <td>Mentor</td>
+        <td><a href=" " target="_blank">LinkedIn</a></td>
+        <td><a href="  " target="_blank">GitHub</a></td>
+        <td> </td>
     </tr>
 <!--      <tr>
         <td>Mentor</td>
