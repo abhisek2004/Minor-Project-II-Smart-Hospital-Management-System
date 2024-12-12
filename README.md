@@ -33,7 +33,6 @@
    http://localhost:5000
    ```
 
-This will launch the Smart Hospital Management System locally on your machine. You'll be able to access the system via your browser at the provided local URL.
 <div align="center">
 
 ### 💻 **Tech Stacks**
