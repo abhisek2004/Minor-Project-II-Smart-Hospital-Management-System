@@ -2,7 +2,7 @@
 
 🌟Smart_Hospital_Management_System 🌟
 
-      ![Screenshot 3](https://github.com/user-attachments/assets/d3e92cef-775f-4cc8-afd6-468456818d5a)
+<!--- ![Screenshot 3](https://github.com/user-attachments/assets/d3e92cef-775f-4cc8-afd6-468456818d5a) --->
 
 ### Smart_Hospital_Management_System PPT
 
