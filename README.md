@@ -306,7 +306,7 @@ Explore our project website for a comprehensive overview of all the details, fea
 
 You can view the project PDF in an interactive flip book format here:
 
-[📚 Flip Book PDF](https://online.fliphtml5.com/jgrqn/xwki/)
+[📚 Flip Book PDF]( )
 
 ---
 
