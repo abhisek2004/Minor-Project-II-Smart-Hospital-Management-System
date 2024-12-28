@@ -279,8 +279,8 @@ A robust technological solution that addresses queuing models, bed availability,
     </tr>
    <tr>
         <td>Mentor</td>
-        <td><a href=" " target="_blank">LinkedIn</a></td>
-        <td><a href="  " target="_blank">GitHub</a></td>
+        <td><a href="https://www.linkedin.com/in/diptesh-narendra-9a5049270/" target="_blank">LinkedIn</a></td>
+        <td><a href="https://github.com/diptesh224" target="_blank">GitHub</a></td>
         <td> </td>
     </tr>
 </table>
