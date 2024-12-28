@@ -287,9 +287,28 @@ A robust technological solution that addresses queuing models, bed availability,
 
 <hr>
 
-### 📸 Website Preview
+---
+**📊 Project Presentation**
+
+Check out our PowerPoint presentation for a detailed overview of the project! 📑
 
 
+---
+
+🌐 **Project Website Overview**  
+
+Explore our project website for a comprehensive overview of all the details, features, and updates! 📅 Dive into sections like project goals, milestones, team introductions, and much more to get a clear understanding of what we’re working on.
+
+---
+
+
+## 📖 View the PDF in Flip Book Format
+
+You can view the project PDF in an interactive flip book format here:
+
+[📚 Flip Book PDF](https://online.fliphtml5.com/jgrqn/xwki/)
+
+---
 
 
 🌐 **Visit our website:** 
