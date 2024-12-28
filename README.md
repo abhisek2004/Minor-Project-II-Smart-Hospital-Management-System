@@ -283,18 +283,6 @@ A robust technological solution that addresses queuing models, bed availability,
         <td><a href="  " target="_blank">GitHub</a></td>
         <td> </td>
     </tr>
-<!--      <tr>
-        <td>Mentor</td>
-        <td><a href=" # " target="_blank">LinkedIn</a></td>
-        <td><a href=" # " target="_blank">GitHub</a></td>
-        <td> @gmail.com</td>
-    </tr>
-    <tr>
-        <td>Mentor</td>
-        <td><a href=" # " target="_blank">LinkedIn</a></td>
-        <td><a href=" # " target="_blank">GitHub</a></td>
-        <td> @gmail.com</td>
-    </tr> -->
 </table>
 
 <hr>
