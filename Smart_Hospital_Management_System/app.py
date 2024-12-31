@@ -42,7 +42,7 @@ app.secret_key = secrets.token_hex()
 my_email = "nicdelhi2024@gmail.com"
 code = "zuff vkvx pamt kdor"
 bcrypt = Bcrypt(app)
-uri = "mongodb+srv://manasranjanpradhan2004:root@hms.m7j9t.mongodb.net/?retryWrites=true&w=majority&appName=HMS"
+uri = "  #   "
 # Create a new client and connect to the server
 client = MongoClient(uri, server_api=ServerApi('1'))
 
