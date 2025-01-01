@@ -102,20 +102,3 @@ body {
   margin: 20px;
 }
 
-footer {
-  /* background-color: #00ffe1; */
-  text-align: center;
-  color: #fa0404be;
-  height: 60px;
-  /* Adjust the height as needed */
-  margin: 0 20px;
-  padding-top: 20px;
-  font-size: 25px;
-  display: flex;
-  justify-content: center;
-  /* Center content horizontally */
-  align-items: center;
-  /* Center content vertically */
-  display: flex;
-  flex-direction: column;
-}
