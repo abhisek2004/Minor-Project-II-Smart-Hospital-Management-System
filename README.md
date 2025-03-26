@@ -8,7 +8,7 @@
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
+1. **Clone the repository:**   
    ```bash
    git clone https://github.com/abhisek2004/Minor-Project-II-Smart-Hospital-Management-System.git
    ```
