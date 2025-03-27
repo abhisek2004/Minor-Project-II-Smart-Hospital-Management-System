@@ -373,10 +373,9 @@ You can view the project PDF in an interactive flip book format here:
 
 </div>
 
+---
 
-##  
-<img src="https://raw.githubusercontent.com/Meetjain1/wanderlust/main/assets/image.png" width="35" height="35">
-  Contribution
+## <h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35">   Contribution</h2>
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
