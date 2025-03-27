@@ -421,7 +421,3 @@ This project is licensed under the **GPL-2.0 License** - see the [LICENSE](LICEN
 </div>
 
 ### Show some ❤️ by starring this awesome repository!
-
-
-
-
