@@ -264,19 +264,25 @@ A robust technological solution that addresses queuing models, bed availability,
         <th>Email</th>
     </tr>
     <tr>
-        <td>Project Admin</td>
+        <td>Frontend Developer</td>
         <td><a href="https://www.linkedin.com/in/abhisekpanda2004/" target="_blank">LinkedIn</a></td>
         <td><a href="https://github.com/abhisek2004" target="_blank">GitHub</a></td>
         <td>abhisek2004panda@gmail.com</td>
     </tr>
     <tr>
-        <td>Mentor</td>
+        <td>Backend Developer</td>
         <td><a href="https://www.linkedin.com/in/debabrata-mishra-148121289/" target="_blank">LinkedIn</a></td>
         <td><a href="https://github.com/debaraja-394" target="_blank">GitHub</a></td>
         <td>debabrat827@gmail.com</td>
     </tr>
    <tr>
-        <td>Mentor</td>
+        <td>Backend Developer</td>
+        <td><a href="https://www.linkedin.com/in/manas-ranjan-pradhan/" target="_blank">LinkedIn</a></td>
+        <td><a href="https://github.com/ManaS066" target="_blank">GitHub</a></td>
+        <td>manasranjanpradhan@gmail.com</td>
+    </tr>
+   <tr>
+        <td>Partner</td>
         <td><a href="https://www.linkedin.com/in/diptesh-narendra-9a5049270/" target="_blank">LinkedIn</a></td>
         <td><a href="https://github.com/diptesh224" target="_blank">GitHub</a></td>
         <td>narendradiptesh@gmail.com</td>
