@@ -303,6 +303,11 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![1_HOME_PAGE_4](https://github.com/user-attachments/assets/03db233f-9f27-4faf-8455-02c0200d8a03)
 ![1_HOME_PAGE_5](https://github.com/user-attachments/assets/06c6bc93-49ee-4ab8-a986-527790a827d3)
 
+![2_USER_REG_2](https://github.com/user-attachments/assets/fd3d1029-a961-427b-a22a-cc1cddca5b1b)
+![2_USER_LOGIN_1](https://github.com/user-attachments/assets/18b9c0bd-6508-4388-921e-c2e5400a08d9)
+![2_USER_DASH_4](https://github.com/user-attachments/assets/99bbee0f-fc84-4b06-ae78-78be7c2bf182)
+![2_USER_APP_3](https://github.com/user-attachments/assets/026240e6-224e-4a67-b05d-aa6368c2c6e0)
+
 
 ---
 
