@@ -308,6 +308,9 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![2_USER_DASH_4](https://github.com/user-attachments/assets/99bbee0f-fc84-4b06-ae78-78be7c2bf182)
 ![2_USER_APP_3](https://github.com/user-attachments/assets/026240e6-224e-4a67-b05d-aa6368c2c6e0)
 
+![4_BEED_STATUS_1](https://github.com/user-attachments/assets/75832b51-8364-4ff9-9e29-3a15f1d5577c)
+![4_BEED_STATUS_2](https://github.com/user-attachments/assets/251e2fd7-78de-4c9b-b24a-1620d74bc060)
+
 
 ---
 
