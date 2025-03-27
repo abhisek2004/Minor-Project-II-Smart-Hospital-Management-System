@@ -312,6 +312,8 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![2_USER_LOGIN_1](https://github.com/user-attachments/assets/18b9c0bd-6508-4388-921e-c2e5400a08d9)
 ![2_USER_DASH_4](https://github.com/user-attachments/assets/99bbee0f-fc84-4b06-ae78-78be7c2bf182)
 ![2_USER_APP_3](https://github.com/user-attachments/assets/026240e6-224e-4a67-b05d-aa6368c2c6e0)
+![Appointment](https://github.com/user-attachments/assets/2aef1b37-12f3-4923-bb8c-aec5bed92128)
+
 
 ---
 
@@ -323,6 +325,8 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![5_DOC_LOG_1](https://github.com/user-attachments/assets/2f7f7614-6180-4332-b9a4-48dec928a1e4)
 ![5_DOC_DASH_2](https://github.com/user-attachments/assets/507d74ce-d51b-4757-8045-d22bbd4cdd4a)
 ![5_DOC_EME_3](https://github.com/user-attachments/assets/a8040823-1d15-4b9a-b03c-efd18ad02471)
+![Appointment_DOC_DASH](https://github.com/user-attachments/assets/959308cf-fcaa-4c0e-9e2d-d6bae9601cb1)
+
 
 ---
 
