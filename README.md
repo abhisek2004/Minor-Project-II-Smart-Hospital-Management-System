@@ -1,4 +1,4 @@
-# Minor-Project-II
+![1_HOME_PAGE_2](https://github.com/user-attachments/assets/b08e5183-4ccf-4f55-9700-7469a0d28e19)# Minor-Project-II
 
 🌟Smart_Hospital_Management_System 🌟
 
@@ -298,6 +298,10 @@ Check out our PowerPoint presentation for a detailed overview of the project! �
 
 Explore our project website for a comprehensive overview of all the details, features, and updates! 📅 Dive into sections like project goals, milestones, team introductions, and much more to get a clear understanding of what we’re working on.
 ![1_HOME_PAGE_1](https://github.com/user-attachments/assets/16a8986c-427b-405c-b0d9-07f5e47ebfd3)
+![1_HOME_PAGE_2](https://github.com/user-attachments/assets/f6b2e07b-c97d-4b4a-9d2e-dbc3318b8721)
+![1_HOME_PAGE_3](https://github.com/user-attachments/assets/dfd4dea3-8f5f-4ce0-b4ce-9f900336ff1b)
+![1_HOME_PAGE_4](https://github.com/user-attachments/assets/03db233f-9f27-4faf-8455-02c0200d8a03)
+![1_HOME_PAGE_5](https://github.com/user-attachments/assets/06c6bc93-49ee-4ab8-a986-527790a827d3)
 
 
 ---
