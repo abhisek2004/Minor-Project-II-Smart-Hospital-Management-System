@@ -332,6 +332,8 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![3_ADMIN_PATI_5](https://github.com/user-attachments/assets/b3ed8a9b-2233-4b7b-b3b0-99634b00d807)
 ![3_ADMIN_DOC_4](https://github.com/user-attachments/assets/d1a3502d-3a57-4b67-9c30-b08c778fc21a)
 ![3_ADMIN_DISH_7](https://github.com/user-attachments/assets/3b15d330-e739-447c-86c4-18b69ea3d2c5)
+![3_ADMIN_DISH_6](https://github.com/user-attachments/assets/119009c1-1ec8-426b-962a-ba5d1907e8d8)
+
 
 ---
 
@@ -342,6 +344,16 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![6_SUPER_CHECKHS_5](https://github.com/user-attachments/assets/894b40e7-7868-4458-afd7-c279b46dc28c)
 ![6_SUPER_CHECKHS_6](https://github.com/user-attachments/assets/b6a17bb8-a1d0-4af0-874b-23c417268e88)
 ![6_SUPER_CHECKHS_7](https://github.com/user-attachments/assets/0c042478-8315-48d4-9314-666989a0c6c3)
+
+---
+
+![7_INV_DASH_1](https://github.com/user-attachments/assets/b5ffb540-14cc-44a0-8580-f9a11d63d3db)
+![7_INV_DASH_2](https://github.com/user-attachments/assets/97e35368-5acf-47ed-8e1b-421a6ee68f96)
+![7_INV_PROD_ADD_2](https://github.com/user-attachments/assets/88202c2f-13d5-4391-b8eb-1c3c5a82c792)
+![7_INV_MAN_PRD_3](https://github.com/user-attachments/assets/5b4fe361-6a78-4b8b-bc2a-47f7f70e4eda)
+![7_INV_MAN_SALE_3](https://github.com/user-attachments/assets/521a8de7-6055-42c3-9f84-081c146f7455)
+![7_INV_MAN_SELLER_3](https://github.com/user-attachments/assets/fdb15937-6711-4c1e-80a7-73fd961ac71f)
+![7_INV_MAN_PUR_3](https://github.com/user-attachments/assets/66cfd1a5-4337-47e4-a7bc-837ed7d8a03c)
 
 ---
 
