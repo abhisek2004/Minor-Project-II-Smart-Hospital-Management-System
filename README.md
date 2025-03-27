@@ -297,6 +297,7 @@ Check out our PowerPoint presentation for a detailed overview of the project! �
 🌐 **Project Website Overview**  
 
 Explore our project website for a comprehensive overview of all the details, features, and updates! 📅 Dive into sections like project goals, milestones, team introductions, and much more to get a clear understanding of what we’re working on.
+
 ---
 
 ![1_HOME_PAGE_1](https://github.com/user-attachments/assets/16a8986c-427b-405c-b0d9-07f5e47ebfd3)
@@ -333,6 +334,17 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![3_ADMIN_DISH_7](https://github.com/user-attachments/assets/3b15d330-e739-447c-86c4-18b69ea3d2c5)
 
 ---
+
+![6_SUPER_LOG_1](https://github.com/user-attachments/assets/f9b0f09b-d8d3-4863-b0ba-85a4208d941d)
+![6_SUPER_DASH_2](https://github.com/user-attachments/assets/bced2cc9-1115-4bdd-aab5-56a2fcf7fe7e)
+![6_SUPER_DASH_3](https://github.com/user-attachments/assets/ac996e9c-a6bc-463c-afc4-ae2b586cd199)
+![6_SUPER_ADDHS_4](https://github.com/user-attachments/assets/6d20db0b-211a-46ae-97d1-188ca98ae9c7)
+![6_SUPER_CHECKHS_5](https://github.com/user-attachments/assets/894b40e7-7868-4458-afd7-c279b46dc28c)
+![6_SUPER_CHECKHS_6](https://github.com/user-attachments/assets/b6a17bb8-a1d0-4af0-874b-23c417268e88)
+![6_SUPER_CHECKHS_7](https://github.com/user-attachments/assets/0c042478-8315-48d4-9314-666989a0c6c3)
+
+---
+
 
 ---
 
