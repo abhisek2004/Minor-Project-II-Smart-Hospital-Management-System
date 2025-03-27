@@ -287,6 +287,7 @@ A robust technological solution that addresses queuing models, bed availability,
 
 ---
 **📊 Project Presentation**
+### Smart_Hospital_Management_System PPT
 
 Check out our PowerPoint presentation for a detailed overview of the project! 📑
 
