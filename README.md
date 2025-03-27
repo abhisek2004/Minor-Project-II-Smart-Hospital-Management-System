@@ -297,24 +297,42 @@ Check out our PowerPoint presentation for a detailed overview of the project! �
 🌐 **Project Website Overview**  
 
 Explore our project website for a comprehensive overview of all the details, features, and updates! 📅 Dive into sections like project goals, milestones, team introductions, and much more to get a clear understanding of what we’re working on.
+---
+
 ![1_HOME_PAGE_1](https://github.com/user-attachments/assets/16a8986c-427b-405c-b0d9-07f5e47ebfd3)
 ![1_HOME_PAGE_2](https://github.com/user-attachments/assets/f6b2e07b-c97d-4b4a-9d2e-dbc3318b8721)
 ![1_HOME_PAGE_3](https://github.com/user-attachments/assets/dfd4dea3-8f5f-4ce0-b4ce-9f900336ff1b)
 ![1_HOME_PAGE_4](https://github.com/user-attachments/assets/03db233f-9f27-4faf-8455-02c0200d8a03)
 ![1_HOME_PAGE_5](https://github.com/user-attachments/assets/06c6bc93-49ee-4ab8-a986-527790a827d3)
 
+---
+
 ![2_USER_REG_2](https://github.com/user-attachments/assets/fd3d1029-a961-427b-a22a-cc1cddca5b1b)
 ![2_USER_LOGIN_1](https://github.com/user-attachments/assets/18b9c0bd-6508-4388-921e-c2e5400a08d9)
 ![2_USER_DASH_4](https://github.com/user-attachments/assets/99bbee0f-fc84-4b06-ae78-78be7c2bf182)
 ![2_USER_APP_3](https://github.com/user-attachments/assets/026240e6-224e-4a67-b05d-aa6368c2c6e0)
 
+---
+
 ![4_BEED_STATUS_1](https://github.com/user-attachments/assets/75832b51-8364-4ff9-9e29-3a15f1d5577c)
 ![4_BEED_STATUS_2](https://github.com/user-attachments/assets/251e2fd7-78de-4c9b-b24a-1620d74bc060)
+
+---
 
 ![5_DOC_LOG_1](https://github.com/user-attachments/assets/2f7f7614-6180-4332-b9a4-48dec928a1e4)
 ![5_DOC_DASH_2](https://github.com/user-attachments/assets/507d74ce-d51b-4757-8045-d22bbd4cdd4a)
 ![5_DOC_EME_3](https://github.com/user-attachments/assets/a8040823-1d15-4b9a-b03c-efd18ad02471)
 
+---
+
+![3_ADMIN_LOG_1](https://github.com/user-attachments/assets/7d4ec871-4065-4b43-a210-fc5eb246a245)
+![3_ADMIN_DASH_2](https://github.com/user-attachments/assets/e3f69349-52e5-405d-b96c-20fbed3be4b1)
+![3_ADMIN_DASH_3](https://github.com/user-attachments/assets/5173d200-220f-450a-9223-56869d9cc83a)
+![3_ADMIN_PATI_5](https://github.com/user-attachments/assets/b3ed8a9b-2233-4b7b-b3b0-99634b00d807)
+![3_ADMIN_DOC_4](https://github.com/user-attachments/assets/d1a3502d-3a57-4b67-9c30-b08c778fc21a)
+![3_ADMIN_DISH_7](https://github.com/user-attachments/assets/3b15d330-e739-447c-86c4-18b69ea3d2c5)
+
+---
 
 ---
 
