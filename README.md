@@ -333,6 +333,8 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![3_ADMIN_DOC_4](https://github.com/user-attachments/assets/d1a3502d-3a57-4b67-9c30-b08c778fc21a)
 ![3_ADMIN_DISH_7](https://github.com/user-attachments/assets/3b15d330-e739-447c-86c4-18b69ea3d2c5)
 ![3_ADMIN_DISH_6](https://github.com/user-attachments/assets/119009c1-1ec8-426b-962a-ba5d1907e8d8)
+![Patient_Discharge_Summary_1](https://github.com/user-attachments/assets/5dab7f84-19f2-498f-a65d-d15ae1ea89bb)
+![Patient_Discharge_Summary_2](https://github.com/user-attachments/assets/53857495-beca-4cda-9c8c-6083befce5af)
 
 
 ---
