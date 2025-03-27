@@ -297,6 +297,8 @@ Check out our PowerPoint presentation for a detailed overview of the project! �
 🌐 **Project Website Overview**  
 
 Explore our project website for a comprehensive overview of all the details, features, and updates! 📅 Dive into sections like project goals, milestones, team introductions, and much more to get a clear understanding of what we’re working on.
+![1_HOME_PAGE_1](https://github.com/user-attachments/assets/16a8986c-427b-405c-b0d9-07f5e47ebfd3)
+
 
 ---
 
