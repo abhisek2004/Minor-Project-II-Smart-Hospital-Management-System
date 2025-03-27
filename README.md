@@ -357,6 +357,12 @@ Explore our project website for a comprehensive overview of all the details, fea
 
 ---
 
+![8_Mongo_DB (1)](https://github.com/user-attachments/assets/e1c4db27-7728-4079-a489-04979cebfe4b)
+![8_Mongo_DB (2)](https://github.com/user-attachments/assets/54689ee1-5318-433e-915c-edcdb2ff07d3)
+![8_Mongo_DB (3)](https://github.com/user-attachments/assets/4aafcb21-bf1f-4c81-8293-86de91ed27de)
+![8_Mongo_DB (4)](https://github.com/user-attachments/assets/202aaf9a-8cc2-479a-b1c3-7d34a8f5bc1a)
+![8_Mongo_DB (5)](https://github.com/user-attachments/assets/470ae80d-6f68-4d20-aa9b-f3a926de8cf3)
+
 
 ---
 
