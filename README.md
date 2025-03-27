@@ -311,6 +311,10 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![4_BEED_STATUS_1](https://github.com/user-attachments/assets/75832b51-8364-4ff9-9e29-3a15f1d5577c)
 ![4_BEED_STATUS_2](https://github.com/user-attachments/assets/251e2fd7-78de-4c9b-b24a-1620d74bc060)
 
+![5_DOC_LOG_1](https://github.com/user-attachments/assets/2f7f7614-6180-4332-b9a4-48dec928a1e4)
+![5_DOC_DASH_2](https://github.com/user-attachments/assets/507d74ce-d51b-4757-8045-d22bbd4cdd4a)
+![5_DOC_EME_3](https://github.com/user-attachments/assets/a8040823-1d15-4b9a-b03c-efd18ad02471)
+
 
 ---
 
