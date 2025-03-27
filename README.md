@@ -60,45 +60,6 @@
 
 This Hospital Management System is designed to optimize queuing models and resource availability to enhance patient care. It integrates seamlessly with city-wide healthcare modules for real-time data sharing. The system addresses critical challenges in patient flow, bed availability, and resource management, ultimately improving healthcare delivery and patient experiences.
 
-## <img src="https://github.com/Meetjain1/wanderlust/assets/133582566/90f3930e-5a12-4a4e-8ac9-0dc7d5396adb" width="35" height="35"> Contribution
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-- If you have any suggestions for the project, such as reporting a bug, improving the UI, or enhancing the README.md file, feel free to **open an issue** to discuss it or directly create a pull request with the necessary changes.
-- Please make sure to check your spelling and grammar.
-- Create individual pull requests for each suggestion to keep changes focused and manageable.
-
-Your involvement helps to improve the project and make it better for everyone. Thank you for your contributions!
-
-Kindly go through [CONTRIBUTING.md](CONTRIBUTING.md) to understand everything from setup to contributing guidelines.
-
-If you would like to contribute to the project, please follow our contribution guidelines.
-
-
-<!-- Code of conduct -->
-
-## <h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Code of Conduct</h2>
-
-We are committed to fostering a welcoming and inclusive environment for everyone. All contributors and participants are expected to uphold the following values:
-
-- Be respectful of different viewpoints and experiences.
-- Show empathy toward others.
-- Use inclusive language.
-
-Please read and follow our [Code of Conduct](Code_of_Conduct.md) to foster an inclusive community.
-If anyone violates these standards, they may be banned from the community.
-
-<hr>
-
-⭐️ Support Our Project
-If you find this project helpful, please consider giving it a star on GitHub! Your support helps to grow the project and reach more contributors.
-
-<hr>
-
-## 📜 License
-
-This project is licensed under the **GPL-2.0 License** - see the [LICENSE](LICENSE) file for details.
-
 
 ## 🔄 Current Status and Future Needs
 
