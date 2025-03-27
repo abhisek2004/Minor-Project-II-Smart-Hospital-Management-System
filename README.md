@@ -1,4 +1,4 @@
-![1_HOME_PAGE_2](https://github.com/user-attachments/assets/b08e5183-4ccf-4f55-9700-7469a0d28e19)# Minor-Project-II
+# Minor-Project-II
 
 🌟Smart_Hospital_Management_System 🌟
 
