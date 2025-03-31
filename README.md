@@ -55,6 +55,10 @@
    ```sh
    npm start
    ```
+### Prerequisites
+- Node.js installed
+- MongoDB/MySQL database set up
+- Git installed
 
 <div align="center">
 
@@ -482,10 +486,7 @@ The **Smart Hospital Management System** is a comprehensive web-based platform d
 
 ## 🔧 Installation & Setup
 
-### Prerequisites
-- Node.js installed
-- MongoDB/MySQL database set up
-- Git installed
+
 
 
 ## 📜 License
