@@ -469,40 +469,4 @@ This project is licensed under the **GPL-2.0 License** - see the [LICENSE](LICEN
 </div>
 
 ### Show some ❤️ by starring this awesome repository!
-
-# 🏥 Smart Hospital Management System
-
-## 📌 Overview
-The **Smart Hospital Management System** is a comprehensive web-based platform designed to streamline hospital operations, improve patient management, and enhance overall healthcare efficiency. It includes various modules catering to patients, doctors, administrators, and hospital staff, ensuring a seamless and effective healthcare experience.
-
-
-
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB / MySQL
-- **Authentication:** JWT (JSON Web Tokens)
-- **Hosting:** Vercel / AWS / DigitalOcean
-- **Version Control:** Git & GitHub
-
-## 🔧 Installation & Setup
-
-
-
-
-## 📜 License
-This project is licensed under the MIT License.
-
-## 💡 Contributing
-Contributions are welcome! Feel free to open issues and submit pull requests to enhance the system.
-
-## 📬 Contact
-For any queries or suggestions, contact:
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-
----
 ### 🎯 Developed with passion and dedication to improving healthcare services! 🚀
-
-
