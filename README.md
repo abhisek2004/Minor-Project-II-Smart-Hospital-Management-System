@@ -61,76 +61,94 @@
 This Hospital Management System is designed to optimize queuing models and resource availability to enhance patient care. It integrates seamlessly with city-wide healthcare modules for real-time data sharing. The system addresses critical challenges in patient flow, bed availability, and resource management, ultimately improving healthcare delivery and patient experiences.
 
 
-## 🔄 Current Status and Future Needs
+## 🚀 Features
 
-The project is currently under development, and contributions are welcome to enhance its functionality. Future updates will focus on improving user interfaces, adding more features, and integrating with additional healthcare systems.
+### 🔄 General Features
+- User-friendly and responsive interface
+- Secure login and authentication system
+- Role-based access control for patients, doctors, admins, and super admins
+- Data encryption and secure storage
+- Real-time analytics and reporting
+- Integrated notification and alert system
+- Fully scalable architecture
 
-## Required Webpages
+### 🌍 Webpages & Functionalities
 
-### 🏥 Landing Page
-A welcoming and informative homepage that provides an overview of the hospital's services, mission, and values. It features quick links to essential functions like user registration, login, and services offered.
+#### 🏥 Landing Page
+A welcoming homepage providing an overview of the hospital’s services, mission, and values, with quick access to essential functions like login, registration, and service information.
 
-### 📝 User Registration
-A dedicated page for new users to create an account, capturing essential personal details such as name, email, phone number, and password. This page includes form validation to ensure accurate data entry and a secure registration process.
+#### 📝 User Registration
+A form-based page allowing users to create an account with essential details, featuring form validation for accurate data entry and a secure registration process.
 
-### 🔐 User Login
-A secure login page for users to access their accounts by entering their registered email and password. The page also provides options for password recovery and assistance in case of login issues.
+#### 🔐 User Login
+A secure login page for registered users to access their accounts with options for password recovery.
 
-### 📊 User Dashboard
-A personalized dashboard for users to view and manage their profiles, appointments, and feedback. It offers insights into upcoming appointments, notifications, and access to relevant health resources.
+#### 📊 User Dashboard
+A personalized interface where users can:
+- View and manage their profiles
+- Track appointments
+- Access healthcare resources
+- Receive notifications
 
-### 🦸‍♂️ Super Admin
-A dedicated interface for super admins to oversee the entire hospital management system. This page includes advanced management features, analytics, and controls to ensure smooth operations across the platform.
+#### 🦸‍♂️ Super Admin Dashboard
+A high-level management interface for super admins to:
+- Oversee hospital operations
+- Manage users and roles
+- Access advanced analytics
+- Ensure smooth system functionality
 
-### 🔒 Super Admin Login
-A secure login page specifically for super admins, requiring high-level credentials to access sensitive administrative features and controls.
+#### 🔒 Super Admin Login
+A secure page for super admins to access administrative controls.
 
-### 📋 Admin Dashboard
-An admin dashboard providing an overview of hospital operations, including patient statistics, bed occupancy, and inventory management. Admins can also manage user roles and permissions from this page.
+#### 📋 Admin Dashboard
+A comprehensive dashboard providing insights into hospital operations, patient statistics, and inventory management. Admins can manage user roles and permissions.
 
-### 🔑 Admin Login
-A secure login page for hospital administrators to access the admin dashboard and manage hospital operations effectively.
+#### 🔑 Admin Login
+A secure login page for hospital administrators to manage operations.
 
-### 👩‍⚕️ Add Patient
-A form page for admins and doctors to input new patient information, including personal details, medical history, and contact information. This page ensures that patient records are accurately captured and stored.
+#### 👩‍⚕️ Add Patient
+A form-based interface for admins and doctors to input patient details, including medical history and contact information.
 
-### 👨‍⚕️ Add Doctor
-A dedicated page for adding new doctor profiles, including their qualifications, specialties, and availability. This page helps maintain an up-to-date roster of healthcare professionals within the hospital.
+#### 👨‍⚕️ Add Doctor
+A dedicated page to add new doctor profiles, including qualifications, specialties, and availability.
 
-### 💊 Inventory (Medicine)
-A comprehensive inventory management page that tracks medicines and supplies, allowing users to view current stock levels, expiration dates, and reorder supplies when necessary.
+#### 💊 Inventory Management
+A system for tracking medicines and supplies, viewing stock levels, expiration dates, and managing reorders.
 
-### 🩺 Doctor Dashboard
-A personalized dashboard for doctors to manage their appointments, view patient records, and access relevant medical information. It facilitates streamlined workflows and enhances patient care.
+#### 🩺 Doctor Dashboard
+A personalized portal for doctors to:
+- Manage appointments
+- View patient records
+- Access medical history
 
-### 💬 Feedback
-A page where patients can submit their feedback on services received, allowing the hospital to gather insights and improve its offerings based on patient experiences.
+#### 💬 Feedback System
+A section where patients can submit feedback on hospital services to improve patient care and satisfaction.
 
-### 🛏️ Bed Availability
-A real-time overview of bed availability in different wards, helping hospital staff manage admissions and discharges effectively. This page assists in ensuring optimal utilization of hospital resources.
+#### 🛏️ Bed Availability
+A real-time tracking system displaying available hospital beds, aiding in efficient patient admissions and discharges.
 
-### 🗓️ OPD Availability
-A dedicated page for managing and displaying the availability of outpatient department (OPD) services, allowing patients to check and book appointments based on real-time availability.
+#### 🗓️ OPD Availability
+A scheduling module for outpatient department (OPD) services, allowing patients to check availability and book appointments.
 
-### Additional Pages
+### Additional Functionalities
 
-16. 📝 **Patient Registration**: A dedicated page for registering new patients, capturing their personal and medical information.
-17. 🏥 **Hospital Services Overview**: A page outlining the various services offered by the hospital, including OPD services, specialized treatments, and emergency care.
-18. 📅 **Appointment Scheduling**: A page for patients to book, view, and manage their appointments with doctors or other hospital services.
-19. 📂 **Patient Records**: A page for accessing and managing patient medical records, including medical history, test results, and treatment plans.
-20. 📝 **Patient Discharge Summary**: A page to generate and manage patient discharge summaries and ensure all necessary paperwork is completed.
-21. 📊 **Reports & Analytics**: A dashboard for generating various reports related to hospital operations, patient statistics, bed occupancy, and resource utilization.
-22. ⚕️ **Doctor Profiles**: A page that lists all doctors, including their specialties, experience, availability, and contact information.
-23. 🛏️ **Real-Time Bed Availability Status**: A dynamic page showing real-time bed availability in various hospital wards.
-24. 🏥 **Emergency Services**: A dedicated page for managing emergency services, including ambulance availability, ER status, and critical care units.
-25. 📝 **Health Information and Tips**: A page providing educational content on health and wellness, prevention tips, and common medical conditions.
-26. 📦 **Supplies & Equipment Inventory**: A page to manage inventory details of medical supplies and equipment, track usage, and initiate restocking.
-27. 📲 **Notification and Alerts**: A system for sending notifications to staff and patients regarding appointment reminders, bed availability, emergency alerts, etc.
-28. 💻 **Telemedicine Portal**: A page to facilitate virtual consultations between doctors and patients, especially useful for follow-ups or non-critical care.
-29. 📞 **Contact Us**: A page providing contact information for different hospital departments, including phone numbers, email addresses, and a contact form.
-30. 🔄 **System Administration**: A page for managing system settings, user roles, and permissions within the hospital management software.
-31. 📚 **Training and Resources**: A page dedicated to staff training materials, user manuals, and other resources to help hospital staff navigate and use the system efficiently.
-32. 📝 **Patient Feedback and Grievance**: A form for patients to provide feedback on their experience and raise any concerns or grievances.
+16. **📝 Patient Registration** – Dedicated registration page for new patients.
+17. **🏥 Hospital Services Overview** – Detailed descriptions of hospital services.
+18. **📅 Appointment Scheduling** – Easy booking, viewing, and management of appointments.
+19. **📂 Patient Records** – Secure storage and access to medical records.
+20. **📝 Patient Discharge Summary** – Documenting and managing patient discharge details.
+21. **📊 Reports & Analytics** – Generating hospital operation and resource reports.
+22. **⚕️ Doctor Profiles** – Listing doctors with their specialties and availability.
+23. **🛏️ Real-Time Bed Availability** – Up-to-date hospital bed tracking system.
+24. **🏥 Emergency Services** – Information on ambulance availability and emergency care.
+25. **📝 Health Information & Tips** – Educational content on medical conditions and wellness.
+26. **📦 Supplies & Equipment Inventory** – Management of medical equipment and stock.
+27. **📲 Notifications & Alerts** – System-wide notifications for appointments and emergencies.
+28. **💻 Telemedicine Portal** – Virtual consultation services for remote healthcare.
+29. **📞 Contact Us** – Hospital contact details and communication channels.
+30. **🔄 System Administration** – Managing system settings, user roles, and configurations.
+31. **📚 Training & Resources** – Staff training materials and guides.
+32. **📝 Patient Feedback & Grievance** – A platform for submitting complaints and feedback.
 
 ## Problem Statement Title
 
@@ -427,94 +445,7 @@ This project is licensed under the **GPL-2.0 License** - see the [LICENSE](LICEN
 ## 📌 Overview
 The **Smart Hospital Management System** is a comprehensive web-based platform designed to streamline hospital operations, improve patient management, and enhance overall healthcare efficiency. It includes various modules catering to patients, doctors, administrators, and hospital staff, ensuring a seamless and effective healthcare experience.
 
-## 🚀 Features
 
-### 🔄 General Features
-- User-friendly and responsive interface
-- Secure login and authentication system
-- Role-based access control for patients, doctors, admins, and super admins
-- Data encryption and secure storage
-- Real-time analytics and reporting
-- Integrated notification and alert system
-- Fully scalable architecture
-
-### 🌍 Webpages & Functionalities
-
-#### 🏥 Landing Page
-A welcoming homepage providing an overview of the hospital’s services, mission, and values, with quick access to essential functions like login, registration, and service information.
-
-#### 📝 User Registration
-A form-based page allowing users to create an account with essential details, featuring form validation for accurate data entry and a secure registration process.
-
-#### 🔐 User Login
-A secure login page for registered users to access their accounts with options for password recovery.
-
-#### 📊 User Dashboard
-A personalized interface where users can:
-- View and manage their profiles
-- Track appointments
-- Access healthcare resources
-- Receive notifications
-
-#### 🦸‍♂️ Super Admin Dashboard
-A high-level management interface for super admins to:
-- Oversee hospital operations
-- Manage users and roles
-- Access advanced analytics
-- Ensure smooth system functionality
-
-#### 🔒 Super Admin Login
-A secure page for super admins to access administrative controls.
-
-#### 📋 Admin Dashboard
-A comprehensive dashboard providing insights into hospital operations, patient statistics, and inventory management. Admins can manage user roles and permissions.
-
-#### 🔑 Admin Login
-A secure login page for hospital administrators to manage operations.
-
-#### 👩‍⚕️ Add Patient
-A form-based interface for admins and doctors to input patient details, including medical history and contact information.
-
-#### 👨‍⚕️ Add Doctor
-A dedicated page to add new doctor profiles, including qualifications, specialties, and availability.
-
-#### 💊 Inventory Management
-A system for tracking medicines and supplies, viewing stock levels, expiration dates, and managing reorders.
-
-#### 🩺 Doctor Dashboard
-A personalized portal for doctors to:
-- Manage appointments
-- View patient records
-- Access medical history
-
-#### 💬 Feedback System
-A section where patients can submit feedback on hospital services to improve patient care and satisfaction.
-
-#### 🛏️ Bed Availability
-A real-time tracking system displaying available hospital beds, aiding in efficient patient admissions and discharges.
-
-#### 🗓️ OPD Availability
-A scheduling module for outpatient department (OPD) services, allowing patients to check availability and book appointments.
-
-### Additional Functionalities
-
-16. **📝 Patient Registration** – Dedicated registration page for new patients.
-17. **🏥 Hospital Services Overview** – Detailed descriptions of hospital services.
-18. **📅 Appointment Scheduling** – Easy booking, viewing, and management of appointments.
-19. **📂 Patient Records** – Secure storage and access to medical records.
-20. **📝 Patient Discharge Summary** – Documenting and managing patient discharge details.
-21. **📊 Reports & Analytics** – Generating hospital operation and resource reports.
-22. **⚕️ Doctor Profiles** – Listing doctors with their specialties and availability.
-23. **🛏️ Real-Time Bed Availability** – Up-to-date hospital bed tracking system.
-24. **🏥 Emergency Services** – Information on ambulance availability and emergency care.
-25. **📝 Health Information & Tips** – Educational content on medical conditions and wellness.
-26. **📦 Supplies & Equipment Inventory** – Management of medical equipment and stock.
-27. **📲 Notifications & Alerts** – System-wide notifications for appointments and emergencies.
-28. **💻 Telemedicine Portal** – Virtual consultation services for remote healthcare.
-29. **📞 Contact Us** – Hospital contact details and communication channels.
-30. **🔄 System Administration** – Managing system settings, user roles, and configurations.
-31. **📚 Training & Resources** – Staff training materials and guides.
-32. **📝 Patient Feedback & Grievance** – A platform for submitting complaints and feedback.
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js
