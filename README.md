@@ -31,6 +31,31 @@
    http://localhost:5000
    ```
 
+### Steps to Run Inventory Management Project
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/smart-hospital-management.git
+   cd smart-hospital-management
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Set up the environment variables (`.env` file):
+   ```
+   DATABASE_URL=your_database_url
+   JWT_SECRET=your_secret_key
+   PORT=5000
+   ```
+4. Start the backend server:
+   ```sh
+   npm run server
+   ```
+5. Start the frontend:
+   ```sh
+   npm start
+   ```
+
 <div align="center">
 
 ### 💻 **Tech Stacks**
@@ -462,30 +487,6 @@ The **Smart Hospital Management System** is a comprehensive web-based platform d
 - MongoDB/MySQL database set up
 - Git installed
 
-### Steps to Run the Project
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/smart-hospital-management.git
-   cd smart-hospital-management
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Set up the environment variables (`.env` file):
-   ```
-   DATABASE_URL=your_database_url
-   JWT_SECRET=your_secret_key
-   PORT=5000
-   ```
-4. Start the backend server:
-   ```sh
-   npm run server
-   ```
-5. Start the frontend:
-   ```sh
-   npm start
-   ```
 
 ## 📜 License
 This project is licensed under the MIT License.
