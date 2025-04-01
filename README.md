@@ -57,7 +57,7 @@
    ```
 ### Prerequisites
 - Node.js installed
-- MongoDB database set up
+- MongoDB Atlash database set up
 - Git installed
 
 <div align="center">
