@@ -58,6 +58,7 @@
 ### Prerequisites
 - Html
 - CSS
+- Javascript
 - Node.js installed
 - MongoDB Atlash database set up
 - Git installed
