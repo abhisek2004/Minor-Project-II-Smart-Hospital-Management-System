@@ -56,9 +56,12 @@
    npm start
    ```
 ### Prerequisites
+- Html
 - Node.js installed
 - MongoDB Atlash database set up
 - Git installed
+- Git desktop
+- Git Commandline
 
 <div align="center">
 
