@@ -59,6 +59,7 @@
 - Html
 - CSS
 - Javascript
+- Python
 - Node.js installed
 - MongoDB Atlash database set up
 - Git installed
