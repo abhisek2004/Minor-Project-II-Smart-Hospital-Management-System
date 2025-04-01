@@ -57,7 +57,7 @@
    ```
 ### Prerequisites
 - Node.js installed
-- MongoDB/MySQL database set up
+- MongoDB database set up
 - Git installed
 
 <div align="center">
