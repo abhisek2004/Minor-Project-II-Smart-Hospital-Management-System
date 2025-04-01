@@ -60,6 +60,7 @@
 - CSS
 - Javascript
 - Python
+- Flask
 - Node.js installed
 - MongoDB Atlash database set up
 - Git installed
