@@ -1,9 +1,5 @@
 # A full stack Inventory management system
 
-### Live Site: https://inventory-navy.vercel.app
-
-<!-- ### Backend Server: https://inventory-420.vercel.app -->
-
 ### Technologies
 
 - **_Backend:_** TypeScript, Node.js, express.js, mongoDB, mongoose, zod
@@ -43,14 +39,6 @@
    - Monthly
    - Weekly
    - Daily
-
-# Pages
-
-<img src='./asset/1.png'>
-<img src='./asset/2.png'>
-<img src='./asset/3.png'>
-<img src='./asset/4.png'>
-<img src='./asset/5.png'>
 
 ### How to run application locally
 
