@@ -6,22 +6,26 @@
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**   
+1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/abhisek2004/Minor-Project-II-Smart-Hospital-Management-System.git
    ```
 
 2. **Navigate to the project directory:**
+
    ```bash
    cd Minor-Project-II-Smart-Hospital-Management-System
    ```
 
 3. **Install the required dependencies:**
+
    ```bash
    pip install -r requirements.txt
    ```
 
 4. **Run the back-end server:**
+
    ```bash
    python app.py
    ```
@@ -32,6 +36,7 @@
    ```
 
 ### Steps to Run Inventory Management Project
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/smart-hospital-management.git
@@ -55,7 +60,9 @@
    ```sh
    npm start
    ```
+
 ### Prerequisites
+
 - Html
 - CSS
 - Javascript
@@ -97,10 +104,10 @@
 
 This Hospital Management System is designed to optimize queuing models and resource availability to enhance patient care. It integrates seamlessly with city-wide healthcare modules for real-time data sharing. The system addresses critical challenges in patient flow, bed availability, and resource management, ultimately improving healthcare delivery and patient experiences.
 
-
 ## 🚀 Features
 
 ### 🔄 General Features
+
 - User-friendly and responsive interface
 - Secure login and authentication system
 - Role-based access control for patients, doctors, admins, and super admins
@@ -112,59 +119,77 @@ This Hospital Management System is designed to optimize queuing models and resou
 ### 🌍 Webpages & Functionalities
 
 #### 🏥 Landing Page
+
 A welcoming homepage providing an overview of the hospital’s services, mission, and values, with quick access to essential functions like login, registration, and service information.
 
 #### 📝 User Registration
+
 A form-based page allowing users to create an account with essential details, featuring form validation for accurate data entry and a secure registration process.
 
 #### 🔐 User Login
+
 A secure login page for registered users to access their accounts with options for password recovery.
 
 #### 📊 User Dashboard
+
 A personalized interface where users can:
+
 - View and manage their profiles
 - Track appointments
 - Access healthcare resources
 - Receive notifications
 
 #### 🦸‍♂️ Super Admin Dashboard
+
 A high-level management interface for super admins to:
+
 - Oversee hospital operations
 - Manage users and roles
 - Access advanced analytics
 - Ensure smooth system functionality
 
 #### 🔒 Super Admin Login
+
 A secure page for super admins to access administrative controls.
 
 #### 📋 Admin Dashboard
+
 A comprehensive dashboard providing insights into hospital operations, patient statistics, and inventory management. Admins can manage user roles and permissions.
 
 #### 🔑 Admin Login
+
 A secure login page for hospital administrators to manage operations.
 
 #### 👩‍⚕️ Add Patient
+
 A form-based interface for admins and doctors to input patient details, including medical history and contact information.
 
 #### 👨‍⚕️ Add Doctor
+
 A dedicated page to add new doctor profiles, including qualifications, specialties, and availability.
 
 #### 💊 Inventory Management
+
 A system for tracking medicines and supplies, viewing stock levels, expiration dates, and managing reorders.
 
 #### 🩺 Doctor Dashboard
+
 A personalized portal for doctors to:
+
 - Manage appointments
 - View patient records
 - Access medical history
 
 #### 💬 Feedback System
+
 A section where patients can submit feedback on hospital services to improve patient care and satisfaction.
 
 #### 🛏️ Bed Availability
+
 A real-time tracking system displaying available hospital beds, aiding in efficient patient admissions and discharges.
 
 #### 🗓️ OPD Availability
+
 A scheduling module for outpatient department (OPD) services, allowing patients to check availability and book appointments.
 
 ### Additional Functionalities
@@ -214,6 +239,7 @@ Integration with a city-wide module will enable hospitals to coordinate care, sh
 To address the complexities of managing patient flow and resources within hospitals, a comprehensive technological solution is essential. This solution should focus on several key areas:
 
 - **Queuing Models in OPDs**: 🕒
+
   - **Objective**: Optimize patient queuing in Outpatient Departments (OPDs) to minimize wait times and improve service efficiency.
   - **Technology**: Develop algorithms and real-time scheduling systems to predict patient arrivals, manage appointment slots, and dynamically adjust queuing models based on real-time data.
 
@@ -221,13 +247,15 @@ To address the complexities of managing patient flow and resources within hospit
   - **Objective**: Efficiently manage bed availability and streamline the patient admission process to enhance hospital operational efficiency.
   - **Technology**: Implement systems for
 
- real-time monitoring of bed occupancy, predictive analytics for forecasting bed availability, and automated admission processes to reduce manual interventions and errors.
+real-time monitoring of bed occupancy, predictive analytics for forecasting bed availability, and automated admission processes to reduce manual interventions and errors.
 
 - **Medicine and Consumable Dispensation**: 💊
+
   - **Objective**: Improve the management of medicine and consumable inventory, ensuring timely availability and reducing waste.
   - **Technology**: Develop modules for tracking medicine and consumable dispensation, integrating with electronic health records (EHR) to monitor usage patterns, and automate reordering processes based on inventory levels.
 
 - **Inventory Management Modules**: 📦
+
   - **Objective**: Streamline hospital inventory management to ensure optimal stock levels and efficient resource utilization.
   - **Technology**: Implement inventory management systems that integrate with hospital procurement and supply chain processes, providing real-time insights into stock levels, expiration dates, and consumption trends.
 
@@ -246,6 +274,7 @@ A robust technological solution that addresses queuing models, bed availability,
 ## 🔧 Technology Stack
 
 ### Front-End:
+
 - **HTML** 🌐: For structuring and presenting content on webpages.
 - **CSS** 🎨: For styling and designing the user interface, ensuring it is visually appealing and user-friendly.
 - **JavaScript** ⚙️: For adding interactivity and dynamic elements to webpages, such as form validations and real-time updates.
@@ -253,24 +282,27 @@ A robust technological solution that addresses queuing models, bed availability,
 - **TypeScript** 📘: Also used in the Inventory Management Module to enhance code quality, type safety, and maintainability.
 
 ### Back-End:
+
 - **Python** 🐍: The primary programming language for server-side logic and handling data operations.
 - **Flask** 🌶️: A lightweight web framework for Python to build back-end logic, handle routing, and manage APIs.
 
 ### Database:
+
 - **MongoDB Atlas** 🍃: A cloud-based NoSQL database for storing and managing patient records, doctor profiles, bed availability, inventory details, and other critical data.
 
 ### Integration:
+
 - **APIs** 🌐: For integrating with other city-wide healthcare modules and enabling real-time data sharing and communication.
 - **WebSockets** 📡: To facilitate real-time updates for bed availability, OPD schedules, and notifications.
 
 ### Data Analytics:
+
 - **Python Libraries** 📈 (e.g., Pandas, NumPy): For analyzing data related to hospital operations, patient flow, and resource utilization.
 
 ### Security:
+
 - **SSL/TLS Encryption** 🔐: To ensure secure communication between the client and server.
 - **Authentication and Authorization** 🔑: To manage user access and protect sensitive patient and hospital data.
-
-
 
 ## <h2>🔗 Contact Us</h2>
 
@@ -310,7 +342,9 @@ A robust technological solution that addresses queuing models, bed availability,
 <hr>
 
 ---
+
 **📊 Project Presentation**
+
 ### Smart_Hospital_Management_System PPT
 
 Check out our PowerPoint presentation for a detailed overview of the project! 📑
@@ -329,7 +363,7 @@ Check out our PowerPoint presentation for a detailed overview of the project! �
 
 ---
 
-🌐 **Project Website Overview**  
+🌐 **Project Website Overview**
 
 Explore our project website for a comprehensive overview of all the details, features, and updates! 📅 Dive into sections like project goals, milestones, team introductions, and much more to get a clear understanding of what we’re working on.
 
@@ -349,7 +383,6 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![2_USER_APP_3](https://github.com/user-attachments/assets/026240e6-224e-4a67-b05d-aa6368c2c6e0)
 ![Appointment](https://github.com/user-attachments/assets/2aef1b37-12f3-4923-bb8c-aec5bed92128)
 
-
 ---
 
 ![4_BEED_STATUS_1](https://github.com/user-attachments/assets/75832b51-8364-4ff9-9e29-3a15f1d5577c)
@@ -362,7 +395,6 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![5_DOC_EME_3](https://github.com/user-attachments/assets/a8040823-1d15-4b9a-b03c-efd18ad02471)
 ![Appointment_DOC_DASH](https://github.com/user-attachments/assets/959308cf-fcaa-4c0e-9e2d-d6bae9601cb1)
 
-
 ---
 
 ![3_ADMIN_LOG_1](https://github.com/user-attachments/assets/7d4ec871-4065-4b43-a210-fc5eb246a245)
@@ -374,7 +406,6 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![3_ADMIN_DISH_6](https://github.com/user-attachments/assets/119009c1-1ec8-426b-962a-ba5d1907e8d8)
 ![Patient_Discharge_Summary_1](https://github.com/user-attachments/assets/5dab7f84-19f2-498f-a65d-d15ae1ea89bb)
 ![Patient_Discharge_Summary_2](https://github.com/user-attachments/assets/53857495-beca-4cda-9c8c-6083befce5af)
-
 
 ---
 
@@ -404,23 +435,20 @@ Explore our project website for a comprehensive overview of all the details, fea
 ![8_Mongo_DB (4)](https://github.com/user-attachments/assets/202aaf9a-8cc2-479a-b1c3-7d34a8f5bc1a)
 ![8_Mongo_DB (5)](https://github.com/user-attachments/assets/470ae80d-6f68-4d20-aa9b-f3a926de8cf3)
 
-
 ---
-
 
 ## 📖 View the PDF in Flip Book Format
 
 You can view the project PDF in an interactive flip book format here:
 
-[📚 Flip Book PDF]( https://online.fliphtml5.com/jgrqn/ryzu/#p=1 )
+[📚 Flip Book PDF](https://online.fliphtml5.com/jgrqn/ryzu/#p=1)
 
 ---
 
+🌐 \*_Visit our website: _https://sihhospital.vercel.app/*
 
-🌐 **Visit our website: *https://sihhospital.vercel.app/* 
+## <h2 align = "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35">Our Contributors</h2>
 
-
-##  <h2 align = "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35">Our Contributors</h2>
  <h3>Thank you for contributing to our repository</h3>
 
 ![Contributors](https://contrib.rocks/image?repo=abhisek2004/Minor-Project-II-Smart-Hospital-Management-System)
@@ -443,7 +471,7 @@ You can view the project PDF in an interactive flip book format here:
 
 ---
 
-## <h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35">   Contribution</h2>
+## <h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Contribution</h2>
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -456,7 +484,6 @@ Your involvement helps to improve the project and make it better for everyone. T
 Kindly go through [CONTRIBUTING.md](CONTRIBUTING.md) to understand everything from setup to contributing guidelines.
 
 If you would like to contribute to the project, please follow our contribution guidelines.
-
 
 <!-- Code of conduct -->
 
@@ -489,4 +516,5 @@ This project is licensed under the **GPL-2.0 License** - see the [LICENSE](LICEN
 </div>
 
 ### Show some ❤️ by starring this awesome repository!
+
 ### 🎯 Developed with passion and dedication to improving healthcare services! 🚀
