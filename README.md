@@ -249,6 +249,8 @@ A robust technological solution that addresses queuing models, bed availability,
 - **HTML** 🌐: For structuring and presenting content on webpages.
 - **CSS** 🎨: For styling and designing the user interface, ensuring it is visually appealing and user-friendly.
 - **JavaScript** ⚙️: For adding interactivity and dynamic elements to webpages, such as form validations and real-time updates.
+- **Tailwind CSS** 💅: Used specifically in the Inventory Management Module for rapid UI development with utility-first classes, enabling responsive and modern design.
+- **TypeScript** 📘: Also used in the Inventory Management Module to enhance code quality, type safety, and maintainability.
 
 ### Back-End:
 - **Python** 🐍: The primary programming language for server-side logic and handling data operations.
